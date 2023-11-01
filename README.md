@@ -5,4 +5,4 @@ It seems a good tutorial, let's see how it continues
 
 This repository is built step by step in the tutorial.
 
-This line was added on GitHub
+This line was added on GitHub. Just one more line to add another description
