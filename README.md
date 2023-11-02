@@ -9,3 +9,5 @@ This line was added on GitHub. Just one more line to add another description.
 Line nine to test the pull command
 
 This line was added thanks to a local branch
+
+Last line added to test this new amend option
