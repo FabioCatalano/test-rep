@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 
 This line was added on GitHub. Just one more line to add another description.
 Line nine to test the pull command
+
+This line was added thanks to a local branch
